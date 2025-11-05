@@ -392,3 +392,4 @@ void set_gatedesc(struct GATE_DESCRIPTOR *gd, int offset, int selector, int ar)
 ```
 - 类似的，这个辅助函数用于设置`GATE_DESCRIPTOR`结构体的字段，主要用于注册中断处理函数的地址（`offset`）和段选择子（`selector`）。
 
+喵~
